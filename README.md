@@ -1,3 +1,15 @@
+## O projeto
+
+- O arquivo leilao_cego.sol contém a implementação da solução
+
+- O arquivo hashs.txt contém possíveis hashs de bids válidos
+
+- O arquivo Blockchain Project contém a apresentação completa do projeto
+
+## Link para demonstração do projeto [aqui](https://www.youtube.com/watch?v=0z-Q4wRwlTc&feature=youtu.be)
+
+## Justificativa
+
 Uso de SmartContracts para auditar e executar Licitações 
 
 O sistema agregaria os sistemas de pregão eletrônico que estão sendo implementados atualmente. As vantagens dos Smart Contracts são que eles têm clausulas que podem se auto executar dados certos pré-requisitos.
